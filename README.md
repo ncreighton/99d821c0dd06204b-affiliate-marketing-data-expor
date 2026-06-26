@@ -1,0 +1,2 @@
+# 99d821c0dd06204b-affiliate-marketing-data-expor
+Professional affiliate marketing browser extension — without the professional price tag.  Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Affiliate Marketing Data Export And Migration — fully configured and ready to use - One-click activation
